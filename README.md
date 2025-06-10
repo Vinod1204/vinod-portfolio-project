@@ -16,3 +16,14 @@ Can run the application in VS Code or a terminal and it will be available at `ht
 npm install
 npm run dev
 ```
+
+## Production Build
+
+To create a production build and start the server:
+
+```bash
+npm run build
+npm start
+```
+
+The portfolio now also features a simple contact form under the **Contact** section.
